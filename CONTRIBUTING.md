@@ -20,6 +20,21 @@ Contributors are any members of the open source community who participate in pro
 
 Committers are members of the contributor community who have demonstrated an ongoing commitment to the health and sustainability of the Presto project through good citizenship and wise stewardship. These individuals have been elevated to a decision-making role, and responsible for reviewing and merging code from contributors. They may also be involved in the release process or other critical project roles.
 
+Current Presto committers:
+
+| Name              | Github                                            | Affiliation |
+| ----------------- | ------------------------------------------------- | ------------|
+| Masha Basmanova   |[mbasmanova](https://github.com/mbasmanova)        | Facebook    |
+| Zhenxiao Luo      |[zhenxiao](https://github.com/zhenxiao)            | Twitter     |
+| Andrii Rosa       |[arhimondr](https://github.com/arhimondr)          | Facebook    |
+| Rebecca Schlussel |[rschlussel](https://.github.com/rschlussel)       | Facebook    |
+| James Sun         |[highker](https://github.com/highker)              | Facebook    |
+| Wenlei Xie        |[wenleix](https://github.com/wenleix)              | Facebook    |
+| Rongrong Zhong    |[rongrong](https://github.com/rongrong)            | Facebook    |
+| Shixuan Fan       |[shixuan-fan](https://github.com/shixuan-fan)      | Facebook    |
+| Jiexi Lin         |[jessesleeping](https://github.com/jessesleeping)  | Facebook    |
+
+
 The path to committership starts with becoming a contributor to the project. Over time contributors prove that they have high commitment to the project and they get nominated by an existing committer to become a committer.
 
 When a committer candidate is nominated by an existing committer lazy consensus is required (no vetoes) from existing committers. The nomination should include a justification of why that person should become a committer (e.g., code/test/doc contributions, other positive impact to the project & community, etc.).
