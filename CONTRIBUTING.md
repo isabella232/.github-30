@@ -12,17 +12,34 @@ All Presto development occurs on [GitHub](https://github.com/prestodb), followin
 
 Presto follows industry best practices, with the technical project and its governance distinctly separate from the Presto Foundation. The [Technical Charter](https://github.com/prestodb/tsc/blob/master/CHARTER.md) establishes the Presto Technical Steering Committee as the body which oversees all technical aspects of the open source project. By contrast, the [Presto Foundation](https://prestodb.io) Governing Board is responsible for raising and distributing funds to support project activities, and setting policy. While the two groups are separate, they work in close coordination to establish, guide, and support activities that lead to a long-term, sustainable future for Presto.
 
-### Project roles and responsibilities
-
-#### Contributors
+### Contributors
 
 Contributors are any members of the open source community who participate in project develompent. Contributors may participate on their own behalf or on behalf of their employer. Membership in the [Presto Foundation](https://prestodb.io) is not required in order to contribute, although contributors must have signed a CLA prior to their code being merged (see below).
 
-#### Committers
+### Committers
 
 Committers are members of the contributor community who have demonstrated an ongoing commitment to the health and sustainability of the Presto project through good citizenship and wise stewardship. These individuals have been elevated to a decision-making role, and responsible for reviewing and merging code from contributors. They may also be involved in the release process or other critical project roles.
 
-* [Current list of Presto committers](https://github.com/prestodb/presto/wiki/committers)
+The path to committership starts with becoming a contributor to the project. Over time contributors prove that they have high commitment to the project and they get nominated by an existing committer to become a committer.
+
+When a committer candidate is nominated by an existing committer lazy consensus is required (no vetoes) from existing committers. The nomination should include a justification of why that person should become a committer (e.g., code/test/doc contributions, other positive impact to the project & community, etc.).
+
+Committer candidates:
+
+* Demonstrate good collaboration skills
+* Submit high quality pull requests that conform to Presto coding styles and best practices.
+* Demonstrate good understanding of Presto’s criteria for accepting pull requests
+* Help with reviewing pull requests from the community
+* Contribute to design/technical discussions on Github and Slack
+* Help with user issues on Github, user mailing list, and Slack
+have good judgement around when some code should be merged, or when to ask someone else to make that judgement
+* Care deeply about code quality
+* Care deeply about good test coverage & proper user documentation
+* Care deeply about performance and reliability
+
+Committership can be revoked under rare circumstances, such as when a committer stops becoming a good citizen of the project or when a committer becomes inactive for an extended period of time.
+
+Additional committer positions may be added or existing positions removed by 2/3 approval of the TSC.
 
 ## Things to do prior to contributing
 
