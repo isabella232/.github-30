@@ -34,10 +34,9 @@ Current Presto committers:
 | Shixuan Fan       |[shixuan-fan](https://github.com/shixuan-fan)      | Facebook    |
 | Jiexi Lin         |[jessesleeping](https://github.com/jessesleeping)  | Facebook    |
 
+The path to committership starts with becoming a contributor to the project. Over time, contributors can prove that they have high commitment to the project.  Top contributors may become committers through either a simple majority vote by the existing committers, or by a 2/3 vote of the TSC.  An existing committer may be removed in the same manner.
 
-The path to committership starts with becoming a contributor to the project. Over time contributors prove that they have high commitment to the project and they get nominated by an existing committer to become a committer.
-
-When a committer candidate is nominated by an existing committer lazy consensus is required (no vetoes) from existing committers. The nomination should include a justification of why that person should become a committer (e.g., code/test/doc contributions, other positive impact to the project & community, etc.).
+Each potential committer should be nominated prior to the vote.  The nomination should include a justification of why that person should become a committer (e.g., code/test/doc contributions, other positive impact to the project & community, etc.).
 
 Committer candidates:
 
@@ -53,8 +52,6 @@ have good judgement around when some code should be merged, or when to ask someo
 * Care deeply about performance and reliability
 
 Committership can be revoked under rare circumstances, such as when a committer stops becoming a good citizen of the project or when a committer becomes inactive for an extended period of time.
-
-Additional committer positions may be added or existing positions removed by 2/3 approval of the TSC.
 
 ## Things to do prior to contributing
 
