@@ -46,7 +46,7 @@ Committer candidates:
 * Help with reviewing pull requests from the community
 * Contribute to design/technical discussions on Github and Slack
 * Help with user issues on Github, user mailing list, and Slack
-have good judgement around when some code should be merged, or when to ask someone else to make that judgement
+* Have good judgement around when some code should be merged, or when to ask someone else to make that judgement
 * Care deeply about code quality
 * Care deeply about good test coverage & proper user documentation
 * Care deeply about performance and reliability
