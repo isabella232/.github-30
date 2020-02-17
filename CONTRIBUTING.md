@@ -33,6 +33,7 @@ Current Presto committers:
 | Rongrong Zhong    |[rongrong](https://github.com/rongrong)            | Facebook    |
 | Shixuan Fan       |[shixuan-fan](https://github.com/shixuan-fan)      | Facebook    |
 | Jiexi Lin         |[jessesleeping](https://github.com/jessesleeping)  | Facebook    |
+| Leiqing Cai       |[caithagoras](https://github.com/caithagoras)      | Facebook    |
 
 The path to committership starts with becoming a contributor to the project. Over time, contributors can prove that they have high commitment to the project.  Top contributors may become committers through either a simple majority vote by the existing committers, or by a 2/3 vote of the TSC.  An existing committer may be removed in the same manner.
 
